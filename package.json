@@ -12,5 +12,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "axios": "^0.21.1",
+    "morgan": "^1.10.0"
+  }
 }
